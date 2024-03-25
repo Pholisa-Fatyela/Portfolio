@@ -132,6 +132,10 @@ p {
         text-align: center;
     }
 
+    .hero {
+        padding: 80px 20px;
+    }
+
     p {
         text-align: center;
     }
