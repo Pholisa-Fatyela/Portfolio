@@ -57,6 +57,11 @@ p {
     text-transform: capitalize;
 }
 
+.hero {
+    background: #f9f7fe;
+    text-align: center;
+}
+
 .primary-link {
     border-radius: 4px;
     padding: 20px 15px;
@@ -75,18 +80,6 @@ p {
     color: var(--primary-color);
     border: 1px solid var(--primary-color);
 }
-
-/* 
-.contact-link {
-  background: var(--primary-color);
-  box-shadow: var(--box-shadow);
-  color: white;
-} */
-/* 
-.about-link {
-  color: var(--primary-color);
-  border: 1px solid var(--primary-color);
-} */
 
 .homepage-link {
     color: var(--primary-color);
