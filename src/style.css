@@ -4,21 +4,6 @@
     --box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
 }
 
-/* 
-  font-family: "Playfair Display",
-  serif;
-.poppins-medium {
-    font-family: "Poppins", sans-serif;
-    font-weight: 500;
-    font-style: normal;
-}
-
-.poppins-bold {
-    font-family: "Poppins", sans-serif;
-    font-weight: 700;
-    font-style: normal;
-} */
-
 body {
     margin: 60px auto;
     max-width: 800px;
